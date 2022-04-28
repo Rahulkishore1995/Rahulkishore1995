@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkishore1995&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkishore1995" /> </p>
 
-(https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif)
+!(https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif)
 
 - 🌱 I’m currently learning **MERN Stack At Masai School**
 
